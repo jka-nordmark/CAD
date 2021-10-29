@@ -1,7 +1,7 @@
 # CAD
 various things for lab
 
-#PRINT PARAMS
+#PRINT PARAMS FOR STRUCTURAL COMPONENTS
 
 10 % Diamond infill; 
 5 shells; 
